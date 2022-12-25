@@ -81,7 +81,7 @@ Although, it is completely harmless and you can start the application by running
 
 
 Running the Unit Tests
-----------------------
+------------------
 
 To run the unit tests for this course, you will use `Jest
 <https://jestjs.io/docs/en/getting-started>`_. Jest has been included in this
