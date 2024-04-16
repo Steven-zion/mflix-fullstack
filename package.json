@@ -55,7 +55,7 @@
     "mocha": "^5.2.0",
     "mongodb": "^3.1.6",
     "morgan": "^1.9.1",
-    "npm-check-updates": "^4.0.0",
+    "npm-check-updates": "^16.3.13",
     "prettier": "^1.14.3",
     "sinon": "^5.0.10"
   },
